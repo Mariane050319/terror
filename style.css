@@ -1,0 +1,36 @@
+@charset "8tf-8";
+
+body{
+    margin: 15px;
+    background-image: url(terror.png);
+    background-size: cover;
+    background-attachment: fixed;
+ 
+    }
+    h1{
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 60px;
+     color: blue;
+    }
+    p{
+        color: #f3f3fa;
+        font-size: 30px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    button{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        opacity: 60px;
+    }
+    footer{
+        text-align: center;
+        margin-bottom: 0;
+        position: relative;
+        margin-top: 100vh;
+       margin-bottom: 0;
+        transform: translate(-50%);
+        margin-left: 50%;
+        color: rgb(228, 219, 219);
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 25px;    
+    }
